@@ -3,7 +3,7 @@
 
 A C++ inventory management system for fencing equipment with SQLite database and web UI, inspired by my younger years of competitive fencing...
 
-                        - coming from a retired college varsity women's epee team fencer :0
+- coming from a retired college varsity women's epee team fencer :0
 
 but this is mostly because I wanted to practice/get better at C++ and SQL lol
 
