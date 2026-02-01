@@ -1,0 +1,7 @@
+main
+
+*.o
+
+inventory.db
+
+.DS_Store
